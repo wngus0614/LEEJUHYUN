@@ -1,4 +1,4 @@
-package Exam;
+package Ch99;
 
 class AppleBuyer{
 	private int MyMoney;
@@ -50,7 +50,7 @@ class AppleSeller{
 		System.out.println("개당 가격 : " + Price);
 	}
 }
-public class 사과장수 {
+public class test {
 
 	public static void main(String[] args) {
 		AppleSeller 사과장수1 = new AppleSeller(100000,100,1000);
